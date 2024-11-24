@@ -1,0 +1,14 @@
+---
+# Link to update quotes (don't touch)
+link-updater: ~
+
+# Quotes language: [id, en]
+language: id
+
+# Translation
+contents:
+  character-name: Nama Karakter
+  anime-name: Anime
+  episode: Episode
+  quotes-date: Tanggal
+...
